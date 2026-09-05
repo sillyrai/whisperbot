@@ -1,0 +1,1 @@
+Audio to Text transcription Discord bot. Convert voice chat audio into text automatically
