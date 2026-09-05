@@ -1,0 +1,4 @@
+whisper/
+.env
+node_modules/
+tmp/
