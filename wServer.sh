@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# note: this launch script was made by Claude because i really couldnt be arsed to learn bash for this bit. everything else in this repo is made by me (as can be understood by shitty coding practices)
 set -e
 
 # —————————————————————————————
